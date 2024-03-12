@@ -9,6 +9,6 @@
   end
 ```
 
-```c
-  printf
+```c++
+  printf("hello")
 ```
