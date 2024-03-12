@@ -7,5 +7,8 @@
 
     {:ok, state, {:continue, :setup}}
   end
+```
 
+```c
+  printf
 ```
