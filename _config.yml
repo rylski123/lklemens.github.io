@@ -181,14 +181,12 @@ analytics:
 ## => Build
 ##############################
 markdown    : kramdown
-highlighter : rouge
 permalink   : date
 
 
 # Markdown Processors
 kramdown:
   input: GFM
-  auto_ids: true
   syntax_highlighter: rouge
 
 exclude:
