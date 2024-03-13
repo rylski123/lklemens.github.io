@@ -21,8 +21,8 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Klemens's Blog
-description: > # this means to ignore newlines until "Language & timezone"
+title   : 12345
+description: > # blabla
   Programming adventures
 
 ## => Language and Timezone
